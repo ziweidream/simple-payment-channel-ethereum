@@ -1,4 +1,4 @@
-*Simple Payment Channel on Ethereum*
+*Simple Payment Channel on Ethereum Rinkeby Test Network*
 
 **[DEMO here](https://ziweidream.github.io/simple-payment-channel-ethereum/)**
 
